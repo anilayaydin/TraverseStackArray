@@ -1,0 +1,7 @@
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\bin\Debug\TraverseStackArray.exe.config
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\bin\Debug\TraverseStackArray.exe
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\bin\Debug\TraverseStackArray.pdb
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\obj\Debug\TraverseStackArray.csprojAssemblyReference.cache
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\obj\Debug\TraverseStackArray.csproj.CoreCompileInputs.cache
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\obj\Debug\TraverseStackArray.exe
+C:\Users\ANIL-PC\source\repos\TraverseStackArray\TraverseStackArray\obj\Debug\TraverseStackArray.pdb
